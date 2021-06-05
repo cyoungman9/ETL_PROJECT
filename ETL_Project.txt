@@ -1,0 +1,46 @@
+CREATE TABLE online (
+	id int,
+	title varchar(120),
+	year varchar,
+	age varchar,
+	imdb_score float,
+	rotten_tomatoes float,
+	netflix varchar,
+	hulu varchar,
+	prime_video varchar,
+	disney varchar,
+	type int,
+	directors varchar,
+	genres varchar,
+	country varchar,
+	language varchar,
+	runtime int,
+    PRIMARY KEY ( year, title
+     )	
+);
+
+
+CREATE TABLE theater (
+	year varchar,
+	title varchar(120),
+	release_date varchar,
+	color_bw varchar,
+	genre varchar,
+	language varchar,
+	country varchar,
+	rating varchar,
+	lead_actor varchar,
+	director_name varchar,
+	lead_actor_fb_likes int,
+	cast_fb_likes int,
+	director_fb_likes int,
+	movie_fb_likes integer,
+	imdb_score float,
+	total_reviews int,
+	duration_mins int,
+	gross_revenue float(5),
+	budget float(3),
+	PRIMARY KEY ( year, title
+     )	
+);
+
