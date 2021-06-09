@@ -4,7 +4,7 @@ ETL Project Final Report
 6/8/2021
 
 Team members:
-Chuck Youngman, Felix Ogbodu, Sindhura Surapaneni, Al Burroughs, and Supraja Koppisetty
+Chuck Youngman, Felix Ogbodu, Sindhura Surapaneni, Al Burroughs and Supraja Koppisetty
 
 Project Description/Outline:
 We will combine two datasets to create a summary that shows all the movies in theatres and the streaming platforms. The final database will be relational. The final tables for production will be ‘online’ and ‘theater’.  The transformations used on the project are Cleaning, filtering, and joining. The title for the final database is ‘movies’.
