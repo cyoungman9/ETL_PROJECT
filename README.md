@@ -52,5 +52,3 @@ Load data
 26)	Use pandas to load online csv converted Data Frame into ‘theater’ database
 27)	Use pandas to load theater csv converted Data Frame into ‘online’ database
 
-
-![image](https://user-images.githubusercontent.com/79554783/121273698-d0e12e00-c896-11eb-93a5-1bd900cd1717.png)
