@@ -19,6 +19,7 @@ Movies on Netflix, Prime Video, Hulu and Disney+ | Kaggle
 3)	Load files into git hub repository
 
 Transform data
+
 4)	Import requirements:
 
 import pandas as pd
@@ -47,6 +48,7 @@ import numpy as np
 23)	Confirm ‘Theater’ dataset
 
 Load data
+
 24)	Connect to local postgres database
 25)	Check for database postgres database tables
 26)	Use pandas to load online csv converted Data Frame into ‘theater’ database
